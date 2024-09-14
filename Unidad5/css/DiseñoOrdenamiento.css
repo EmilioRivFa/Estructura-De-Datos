@@ -1,0 +1,92 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    body{
+        height: 100 px;
+        background-image: url(./c99e5a11d3c6e40fd35914767adb4da8.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+    }
+    
+    .contenid-form{
+        text-align: center;
+        width: 600px;
+        height: 400px;
+        background-color: transparent;
+        margin: auto;
+        padding: 50px;
+        margin-top: 50px;
+        border: 5px solid white;
+        border-radius: 15px;
+        box-shadow: 10px 15px 40px black;
+    
+    }
+    h1, h4{
+        text-align: center;
+        color:  Red;
+        padding-top: 25px;
+        padding-bottom: 25px;
+       
+    }
+    .BOX-TEXT{
+        text-align: center;
+        width: 42%;
+        padding: 5px;
+        margin-bottom: 30px;
+        border-radius: 8px;
+        margin-top: 9px;
+        text-align: center;
+        
+    
+    }
+    #Botones,select{
+        text-align: center;
+        border-radius: 9px;
+        width: 40%;
+        padding: 5px;
+        margin-bottom: 19px;
+        background:transparent;
+        border: 3px;
+        color: black;
+    
+    
+    }
+    #Botones:hover{
+        text-align: center;
+        background: white;
+        color:red;
+        padding: 10px;
+        cursor: pointer;
+        font-size: 15px;
+        font-family: cursive;
+        border: 5px solid red ;
+    }
+
+
+
+
+    #Boton, select{
+        text-align: center;
+        border-radius: 9px;
+        width: 40%;
+        padding: 5px;
+        margin-bottom: 19px;
+        background:transparent;
+        border: 3px;
+        color: black;
+    }
+    #Boton:hover{
+        text-align: center;
+        background: white;
+        color:red;
+        padding: 10px;
+        cursor: pointer;
+        font-size: 15px;
+        font-family: cursive;
+        border: 5px solid red ;
+    }
+    
+    
